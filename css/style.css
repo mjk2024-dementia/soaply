@@ -315,7 +315,7 @@ Insta Section Style
   column-gap: var(--el-small);
 
 .insta-esction .insta-id {
-  font-size: var(--ls-full);
+  font-size: var(--fs-20);
 }
 
 
